@@ -1,0 +1,5 @@
+# Auto-detect binary files
+* binary
+*.7z.* binary
+*.bin binary
+*.7z binary
